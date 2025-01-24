@@ -104,11 +104,11 @@ Estas são algumas opções de editores de código:
 
 
 ## Resumo de atividades
-- [ ] 💻 Escolher um Ambiente de desenvolvimento e realizar as devidas instalações
-- [ ] 🔧 Instalar Ferramentas adicionais
-    - [ ] ✨ Instalar o oh my zsh
-    - [ ] ⚙️ Instalar o Power Toys
-        - [ ] Testar o Power Toys
-- [ ] 🖊️ Instalar VSCOde (Editor de código)
+- [x] 💻 Escolher um Ambiente de desenvolvimento e realizar as devidas instalações
+- [x] 🔧 Instalar Ferramentas adicionais
+    - [x] ✨ Instalar o oh my zsh
+    - [x] ⚙️ Instalar o Power Toys
+        - [x] Testar o Power Toys
+- [x] 🖊️ Instalar VSCOde (Editor de código)
 
 Após finalizar, seguir para a página que descreve o VSCode e indica extensões úteis: [VSCode](VSCODE.md).
